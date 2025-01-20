@@ -13,6 +13,10 @@
 .display-flex{
   display: flex;
 }
+.section-title{
+  font-size: 2.8rem;
+  font-size: 700;
+}
 .dark-02{
   color: #424242;
 }
@@ -88,20 +92,12 @@ main > section{
   margin-left: 130px;
   max-width: 530px;
 }
-.feature-title{
-  font-size: 2.8rem;
-  font-size: 700;
-}
 #quick-list{
   font-weight: 500;
 }
 #features-orange{
   color: #ff900e;
 }
-
-
-
-
 /* Responsive media query */
 @media screen and (max-width: 576px) {
   .navbar,
